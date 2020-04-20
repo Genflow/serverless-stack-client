@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12e7d30e-3c83-4919-b5e9-f6a595077327" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/AuthenticatedRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BillingForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BillingForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoaderButton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoaderButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UnauthenticatedRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/NewNote.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/NewNote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Notes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Notes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Settings.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/awsLib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/contextLib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/errorLib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/libs/hooksLib.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Home.js" afterDir="false" />
     </list>
@@ -82,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587206675890</updated>
       <workItem from="1587206677222" duration="1732000" />
-      <workItem from="1587209462558" duration="13086000" />
+      <workItem from="1587209462558" duration="14159000" />
     </task>
     <servers />
   </component>
